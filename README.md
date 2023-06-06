@@ -1,4 +1,4 @@
-# webdevpdf
+# webdevpdf - print and read docs from paper
 
 PDF files of documentation to popular web-development libraries
 
