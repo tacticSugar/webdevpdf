@@ -1,6 +1,6 @@
-# webdevpdf - print and read docs from paper
+# webdevpdf
 
-PDF files of documentation to popular web-development libraries
+Print and read docs from paper
 
 ## Authors
 
